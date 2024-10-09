@@ -1,0 +1,1001 @@
+id_sucursal,nombre_sucursal,ciudad,estado,ganancias
+1,Realfire,San Cristobal,,24351.94
+2,Edgeclub,Nerchinsk,,27031.62
+3,Wordify,Dusun Tengah Cihaurbeuti,,25168.71
+4,Agivu,La Jicaral,,18271.42
+5,Gabcube,Nyanga,,33665.42
+6,Geba,Sosnowiec,,45366.89
+7,Gigazoom,Aengceleng,,34529.78
+8,Roomm,Paitan Este,,23771.53
+9,Flashpoint,Semënov,,19772.67
+10,Thoughtmix,Karangwungu Lor,,22771.16
+11,Jazzy,Margos,,22300.71
+12,Centizu,Aracruz,,22575.67
+13,Chatterbridge,Homa Bay,,22698.46
+14,Flashdog,Dhahi,,16834.45
+15,Buzzdog,Yunfeng,,29831.38
+16,Quatz,Bissau,,15815.27
+17,Wikido,Zambrów,,41577.79
+18,Lajo,La Paz,Oaxaca,36955.9
+19,Layo,Caigongzhuang,,13207.56
+20,Twimm,Yuping,,43513.63
+21,Skynoodle,Bissen,,48958.39
+22,Gabvine,Waiklibang,,32641.29
+23,Wikido,Qingkenpao,,24045.22
+24,Roodel,Sabang,,47820.91
+25,Riffwire,Churovichi,,17398.27
+26,Tazz,Tangwang,,13340.04
+27,Camido,Ekou,,19537.45
+28,Innotype,Dingjiaqiao,,45680.83
+29,Devify,Vargas,,35570.95
+30,Buzzster,Pasirtundun,,12681.91
+31,Mudo,Campina Grande,,40952.44
+32,Topicware,Shizuoka-shi,,15470.46
+33,Kanoodle,Blora,,46855.06
+34,Mybuzz,Białobrzegi,,28885.98
+35,Eabox,Kalibunder,,22062.33
+36,Linkbuzz,Qiaoxi,,37847.37
+37,Abata,Goris,,28754.14
+38,Twitterworks,Qinghe,,43638.0
+39,Dynabox,Muheza,,37897.44
+40,Buzzster,Tanjung Kidul,,25994.27
+41,Edgeclub,Pyshchug,,47097.31
+42,Vidoo,Karara,,46118.63
+43,Vinder,Dongla,,12892.15
+44,Topicstorm,Cukangpanjang,,46249.01
+45,Skidoo,Namangan Shahri,,32755.28
+46,Jabbersphere,Villa Nueva,,34117.05
+47,Devbug,Donglinxi,,30204.52
+48,Vitz,Aknīste,,44119.39
+49,Livetube,Kurmuk,,17832.24
+50,Chatterbridge,Xike,,35863.1
+51,Blogtags,Yataity del Norte,,37643.91
+52,Oyope,Apoya,,17047.5
+53,Fiveclub,Uppsala,Uppsala,39293.04
+54,Chatterbridge,Lixu,,17446.76
+55,Yakijo,Geta,,16896.35
+56,Centizu,Powassan,Ontario,20305.47
+57,Podcat,Santo Tomas,Mexico,32121.65
+58,Zoomcast,Bolobo,,48019.09
+59,Pixonyx,Tver,,30974.04
+60,Abata,Carnaxide,Lisboa,32040.1
+61,Demimbu,Krasnolesnyy,,23708.25
+62,Yamia,Shangpai,,20222.58
+63,Jabberbean,Vakhrushi,,41089.03
+64,Teklist,Xinpo,,48537.75
+65,Twimm,Gandzak,,38963.41
+66,Livetube,Huolianpo,,38925.86
+67,Pixoboo,Massaranduba,,45683.18
+68,Roombo,Xinglong,,47354.29
+69,Livetube,Vila Viçosa,Évora,34708.18
+70,Realpoint,Sayama,,34759.86
+71,Ooba,Mae Wang,,16179.11
+72,Quatz,Nesterovskaya,,46413.0
+73,Meevee,Bagenalstown,,48835.57
+74,Realbridge,Acul du Nord,,37404.55
+75,Feedfire,Dampit Satu,,49053.85
+76,Centidel,Pointe-à-Pitre,Guadeloupe,39735.58
+77,Cogilith,Langsa,,16495.13
+78,Mydo,Umanday Centro,,30637.69
+79,Geba,Mandesan,,40263.4
+80,Kazu,Staromyshastovskaya,,41416.23
+81,Skyble,Winnipeg,Manitoba,25562.06
+82,Nlounge,Söderköping,Östergötland,48554.23
+83,Photobean,Kiraman,,38893.39
+84,Dynabox,Davydovo,,26768.06
+85,Youbridge,Brody,,39726.51
+86,Zava,Tongli,,16845.07
+87,Voonyx,Hisya,,30697.92
+88,Buzzster,Oliveiras,Porto,28871.02
+89,Jabbersphere,Lijiazui,,41729.96
+90,Yakitri,Ingeniero Guillermo N. Juárez,,44223.41
+91,LiveZ,Kaiapoi,,43014.46
+92,Aimbo,Zelenodolsk,,15315.72
+93,Shuffledrive,Shanguang,,35076.71
+94,Oyope,Fria,,27587.08
+95,Divanoodle,Būsh,,41034.78
+96,Aivee,Orléans,Centre,34382.21
+97,Photobug,Moluo,,34492.68
+98,Realbridge,Vostryakovo,,13637.74
+99,Tagpad,Tsuyama,,23700.65
+100,Skinder,Krasnosilka,,10138.17
+101,Demimbu,São Gonçalo do Sapucaí,,47175.51
+102,Topiclounge,Anna Regina,,36684.04
+103,Pixoboo,Wangdain,,20843.1
+104,Fatz,Kamenskiy,,19058.24
+105,Muxo,Ji’an,,32045.47
+106,Photobug,Solna,Stockholm,27269.7
+107,Thoughtsphere,Palermo,,41770.51
+108,Skyvu,Naebugis,,20616.05
+109,Buzzster,Redcliff,,33667.66
+110,Edgepulse,Tsu-shi,,11735.36
+111,Oloo,Kebonagung,,31253.34
+112,Kaymbo,Kawage,,38406.41
+113,Vimbo,Yag La,,41478.93
+114,Rhyzio,Tiepu,,24753.03
+115,Riffwire,Ralevka,,11214.17
+116,Skinte,Três Pontas,,41683.51
+117,Flashspan,Jiajiaying,,25904.61
+118,Photobug,Dubrovka,,21264.01
+119,Ntag,Ayapa,,40197.44
+120,Roombo,Miramichi,New Brunswick,46171.16
+121,Livefish,Potou,,44517.73
+122,Jazzy,Zhaizigou,,34436.41
+123,Tagfeed,Boac,,23097.43
+124,Twinder,Wichit,,49960.1
+125,Digitube,Takatsuki,,40867.98
+126,Quimba,Örebro,Örebro,19701.21
+127,Feednation,Shuntian,,37729.26
+128,Livepath,El Triunfo,,19851.09
+129,Cogibox,Al ‘Ayzarīyah,,29365.49
+130,Skyble,Don Matías,,26898.62
+131,Rhycero,Timoulilt,,18721.8
+132,Cogibox,Fangtang,,48011.5
+133,Skippad,Huineno,,30265.35
+134,Fanoodle,Melíki,,26435.93
+135,Realbridge,Vodnjan,,29626.71
+136,Pixonyx,Dobra,,25718.09
+137,Geba,Le Chambon-Feugerolles,Rhône-Alpes,49345.67
+138,Cogibox,João Pessoa,,28053.9
+139,Rhynoodle,Limoges,Limousin,48566.61
+140,Kwimbee,Luzhany,,29723.11
+141,Gabcube,Porkhov,,18391.57
+142,Fivespan,Shuangpengxi,,48465.81
+143,Linktype,Tetyushi,,24982.09
+144,Voolith,Santa Adélia,,47295.51
+145,Jaloo,Tournon-sur-Rhône,Rhône-Alpes,49729.76
+146,Twimbo,Antang,,41603.33
+147,Feedmix,Ubay,,27505.38
+148,Mydeo,Jesenice,,19089.81
+149,Ooba,Sutukung,,44014.33
+150,Feedmix,Pārūn,,16727.89
+151,Quire,Dukhovshchina,,32021.86
+152,Realfire,Rochester,New York,16487.67
+153,Gigashots,Ariguaní,,14946.09
+154,Dynabox,Meliau,,14401.85
+155,Photofeed,Pakisaji,,45986.39
+156,Voonder,Hägersten,Stockholm,23027.9
+157,Podcat,Sieniawa,,31089.8
+158,Jabbersphere,Hajeom,,44329.6
+159,Bluezoom,Stockholm,Stockholm,37831.89
+160,Quamba,Żółkiewka,,24046.29
+161,Aivee,Kotes,,12375.28
+162,Tazzy,Kinatakutan,,28800.18
+163,Ooba,Baoxing,,46732.82
+164,Eimbee,Şabrātah,,31236.22
+165,Devpoint,Concórdia,,18556.29
+166,Wordpedia,Visby,Gotland,27026.7
+167,Ntag,Amiens,Picardie,34075.42
+168,Thoughtbridge,Acarigua,,16607.71
+169,Muxo,Mangulewa,,19625.46
+170,Shuffledrive,Teculután,,35992.89
+171,Oyoyo,Xinglongchang,,47584.51
+172,Tagcat,Kallífytos,,22055.81
+173,Thoughtstorm,Lukou,,25649.59
+174,Demizz,Tymoshivka,,45609.74
+175,Chatterpoint,Kengyuan,,30801.63
+176,Linkbridge,Krasne,,15613.92
+177,Voolith,Cruz del Eje,,48203.66
+178,Realmix,Masoyila,,49822.39
+179,Jetwire,Franceville,,48026.67
+180,Linktype,Noyon,Picardie,38826.72
+181,Quire,Lankaran,,38396.43
+182,Gigazoom,Santa María Ixhuatán,,49011.36
+183,Flashspan,Hantsavichy,,44747.15
+184,Digitube,Fusagasuga,,49391.28
+185,Quinu,Kazaure,,26788.65
+186,Ooba,Bojonglarang,,47604.86
+187,Ooba,Mendez-Nuñez,,22224.93
+188,Voolith,Yonghe,,45199.6
+189,Browsezoom,Fuhai,,14437.25
+190,Quimm,Dancheng,,36445.18
+191,Gigabox,Motrico,,13545.6
+192,Bluejam,Shimiaozi,,33795.65
+193,Blogpad,Dong’ao,,45688.95
+194,Twitternation,Landázuri,,18305.64
+195,Gigashots,Huangtukuang,,10159.2
+196,Eamia,Kangar,Perlis,14949.1
+197,Voolith,Renxian,,17457.35
+198,Realpoint,Karungdong,,24887.41
+199,Rhyzio,Chengdong,,12525.06
+200,Abata,Palaiochóri,,29950.21
+201,Npath,Jieshui,,15189.18
+202,Roodel,Tyczyn,,26980.07
+203,Topiczoom,Wenquan,,16873.09
+204,Camimbo,Guanba,,24021.65
+205,Jetwire,Bafoussam,,26032.63
+206,Kanoodle,Nueva Fuerza,,39455.61
+207,Fivechat,Bystřany,,20503.93
+208,Oyope,Awayan,,36478.99
+209,Blognation,Lorengau,,14698.62
+210,Mycat,Xiangfu,,48396.58
+211,Topicstorm,Jingchuan,,37011.15
+212,Voomm,Hisings Kärra,Västra Götaland,37668.29
+213,Shufflebeat,Huntington Beach,California,41421.67
+214,Brainverse,Kolape,,37296.56
+215,InnoZ,Lianglin,,18357.11
+216,Pixonyx,Otjimbingwe,,21831.58
+217,Browsebug,Vidče,,26669.01
+218,Quatz,Hezhi,,26305.94
+219,Muxo,Daga,,15741.26
+220,Divape,Ajaccio,Corse,13414.91
+221,Yodoo,Gorki Vtoryye,,45724.6
+222,Dablist,Opatov,,32976.88
+223,Myworks,Krong Pi Nang,,14098.06
+224,Dabvine,Agua Fría,,33901.69
+225,Oyondu,Kimje,,12572.11
+226,Shufflebeat,Yarumela,,40797.41
+227,Quatz,Krzczonów,,46888.27
+228,Tambee,Wleń,,16125.2
+229,Shuffletag,Lawrenceville,Georgia,40712.76
+230,Yakitri,Rio Pardo,,18064.59
+231,Gabtype,Kalāt-e Nāderī,,18529.39
+232,Divanoodle,Gondang,,28601.15
+233,Yamia,Sikonge,,37463.56
+234,Topicshots,Qiansuo,,43678.35
+235,Youspan,General Arenales,,16562.97
+236,Fliptune,Vicente Guerrero,Chiapas,45561.19
+237,Eare,Södertälje,Stockholm,47292.76
+238,Photospace,Jindong,,24529.32
+239,Yacero,Enschede,Provincie Overijssel,36966.83
+240,Thoughtstorm,Goya,,27780.96
+241,Abata,Morávka,,16992.93
+242,Blogtags,Cuiabá,,13611.46
+243,Wordtune,Birigui,,48124.0
+244,Skimia,Rumoi,,38080.78
+245,Flipopia,København,Region Hovedstaden,11945.21
+246,Photobean,Besuki,,32398.34
+247,Mybuzz,Sukamaju,,31201.86
+248,Lajo,Jianrao,,13173.36
+249,Oba,Briceni,,29251.69
+250,Voolith,Guadalupe,,45407.99
+251,Dabvine,Kalininaul,,46333.48
+252,Brainlounge,Qal‘at Bīshah,,25141.94
+253,Skipstorm,Aragua de Barcelona,,39912.92
+254,Latz,Serzedo,Braga,10742.3
+255,Yakijo,Escola,Porto,28050.7
+256,Pixope,Duque de Caxias,,29093.41
+257,Jabbertype,Dainan,,43800.48
+258,Wordware,Elverum,Hedmark,19052.35
+259,Gevee,Daraitan,,28822.17
+260,Demizz,Vrtojba,,41220.71
+261,Yotz,Shangchewan,,39157.59
+262,Flashspan,Mencon,,15511.72
+263,Wikizz,Unisław,,43893.86
+264,Jaxspan,Wintzenheim,Alsace,11442.31
+265,Quaxo,Pamplona,,42321.65
+266,Vinder,Chernelytsya,,43252.29
+267,Gigaclub,Chuguyevka,,31365.98
+268,Youfeed,Villa Verde,,10660.59
+269,Meevee,Vratsa,,48699.97
+270,Twitterbridge,Tasböget,,27141.48
+271,Eabox,Mingyue,,14806.58
+272,Mydo,Slovenj Gradec,,16433.22
+273,Aivee,Buzuluk,,37552.21
+274,Flashspan,Haninge,Stockholm,41080.5
+275,Devcast,Petaẖ Tiqwa,,11432.98
+276,Zoombox,Isoka,,10964.28
+277,Podcat,Daoxian,,14031.99
+278,Photobean,Chyňava,,47506.41
+279,Quatz,Madrid,,44657.87
+280,Trilia,Tiandeng,,30296.82
+281,Kwideo,Baziqiao,,42793.17
+282,Photobug,Karangmangu,,31446.89
+283,Browsezoom,Brodnica,,25809.56
+284,Aimbo,Tyrnyauz,,44453.49
+285,Photobug,Kamifukuoka,,44767.14
+286,Thoughtstorm,Järfälla,Stockholm,30147.53
+287,Yozio,Wanfa,,47953.25
+288,Jaxbean,Palmerston North,,35089.96
+289,Kare,Łapczyca,,21872.11
+290,Layo,Leiden,Provincie Zuid-Holland,24081.42
+291,Skinte,Lākshām,,14796.18
+292,Fivespan,Izbicko,,42220.34
+293,Kamba,Iranduba,,19504.59
+294,Thoughtbridge,Qiaoxia,,33510.05
+295,Rhynoodle,Piastów,,17688.21
+296,Zooveo,Adani,,21288.49
+297,Linktype,Buôn Trấp,,11881.98
+298,Topicshots,Vallauris,Provence-Alpes-Côte d'Azur,28988.91
+299,Zooxo,São Paulo,,17886.67
+300,Realblab,Talitsa,,49038.09
+301,Katz,Baita,,28346.24
+302,Talane,Labuhankananga,,27292.96
+303,Mybuzz,Ad Dawḩah,,18004.21
+304,Wordify,Sañgay,,22139.86
+305,Twitterbeat,El Valle del Espíritu Santo,,45725.66
+306,Feedspan,Daguyun,,20631.5
+307,Gabvine,Fuan,,15092.92
+308,Izio,Meneou,,37289.77
+309,Dazzlesphere,Pato-o,,34339.38
+310,Tagchat,Quanjiang,,34530.08
+311,Wordify,Pakusari,,41364.68
+312,Leexo,Devnya,,15829.28
+313,Kwinu,Kampokpok,,46750.12
+314,Gigaclub,Āsbe Teferī,,40809.05
+315,Kanoodle,Novokhovrino,,27653.17
+316,Topicstorm,Xiaoyangqi,,26265.05
+317,Bluejam,Savigny-le-Temple,Île-de-France,27449.23
+318,Mycat,Tuohua,,29060.14
+319,Buzzbean,Bangluo,,22239.14
+320,Browseblab,Blimbing,,30052.98
+321,Voolith,Cergy-Pontoise,Île-de-France,35491.25
+322,Flashpoint,Kuwayris Sharqī,,33787.67
+323,Bluezoom,Ḩabābah,,43961.1
+324,Shuffledrive,Tranca,,31849.01
+325,Twimbo,Bayān,,25991.26
+326,Skimia,Mizoch,,13533.21
+327,Voomm,Saint-André-Avellin,Québec,15027.92
+328,Skyble,Kemiri,,37085.59
+329,Skipstorm,Edéa,,36515.47
+330,Youbridge,Pianling,,33783.47
+331,Divavu,Parung,,47668.96
+332,Centizu,Kolyubakino,,20192.56
+333,Skivee,Balibagan Oeste,,40461.91
+334,Feedmix,Tangjiawan,,34624.91
+335,Jabbersphere,Argayash,,30259.9
+336,Gabspot,Songbo,,47488.9
+337,Trilia,Tajerouine,,33005.13
+338,Oyondu,Huozhuangzi,,48656.08
+339,Mybuzz,Tangqian,,11012.79
+340,Oyondu,Jablanovec,,29291.54
+341,Jabberstorm,Qingsong,,22999.52
+342,Oba,Batsari,,15782.89
+343,Omba,Guyancourt,Île-de-France,31612.53
+344,Meedoo,Frankfurt am Main,Hessen,15537.37
+345,Eimbee,Krajan,,36757.35
+346,Topicstorm,Atabayan,,40672.18
+347,Quatz,Manakara,,37129.15
+348,Dazzlesphere,Catalão,,48759.86
+349,Demivee,Yanguan,,23723.04
+350,Yamia,Thị Trấn Tân Yên,,46693.64
+351,Babblestorm,Loughrea,,26919.61
+352,Zoomcast,Cockburn Town,,21310.49
+353,Mymm,Shi’ao,,41699.04
+354,Abata,Barra de São Francisco,,44878.81
+355,Avavee,Avaré,,43387.59
+356,Yombu,Pinagsibaan,,20163.32
+357,Topiczoom,Cieurih Satu,,17655.93
+358,Jayo,Panorama,,30314.33
+359,Twitterlist,Nogueira,Viana do Castelo,30575.99
+360,Kwinu,Chubek,,38890.68
+361,Youfeed,Ban Khok,,22934.82
+362,Gabvine,Fullerton,California,46707.86
+363,Eare,Buenavista,,29048.19
+364,Skimia,Tangkanpulit,,31729.98
+365,Photojam,Zhukeng,,43325.5
+366,Realcube,Pogórze,,27886.63
+367,Blogtag,Momil,,46319.42
+368,Zooveo,Västra Frölunda,Västra Götaland,37428.84
+369,Flashset,Kota Kinabalu,Sabah,45433.27
+370,Skilith,Krouna,,33426.21
+371,Thoughtbridge,Dřevohostice,,27121.63
+372,Kazio,Concepción Tutuapa,,40739.31
+373,Myworks,Pobé,,28316.58
+374,Tagfeed,Kitimat,British Columbia,34094.03
+375,Mudo,Kwekwe,,18914.43
+376,Brainbox,Aldeia da Bela Vista,Faro,10078.64
+377,Twitterbeat,Welibo,,22781.94
+378,Jabbercube,Batang,,21979.64
+379,Meejo,Kamigyō-ku,,46709.28
+380,Jaxbean,Wringinputih,,36889.37
+381,Shuffledrive,Navan,,41694.52
+382,Photobean,Pingdu,,12536.47
+383,Fadeo,Kallithéa,,44116.78
+384,Chatterpoint,Tocha,Coimbra,44090.44
+385,Oyope,Shaheying,,46845.4
+386,Meevee,San Jose,California,16611.58
+387,Geba,Yelets,,39169.25
+388,Wikivu,Lamatuka,,28104.68
+389,Minyx,Mawang,,20931.39
+390,Wordware,Mengzhai,,14275.67
+391,Dazzlesphere,Ferrol,Galicia,10741.52
+392,Avavee,Shi’ao,,38776.33
+393,Zoomcast,Misau,,36664.08
+394,Wordtune,Shkodër,,41456.33
+395,Dabshots,Wadung,,43989.16
+396,Kwimbee,Raychikhinsk,,45797.12
+397,Skaboo,Abade de Neiva,Braga,49073.72
+398,Myworks,San Juan,,41701.25
+399,Jaxspan,Barrancabermeja,,31172.41
+400,Wikizz,Gebre Guracha,,34003.81
+401,Mydo,Xinning,,28625.73
+402,Ooba,Lantian,,22297.61
+403,Meeveo,Asbestos,Québec,33332.44
+404,Kwimbee,Xiatuanpu,,41097.52
+405,Voonix,Dístomo,,18960.89
+406,Roodel,Jiesheng,,39087.04
+407,Photofeed,Krasnyy Oktyabr’,,16713.8
+408,Skidoo,Kara-Balta,,29044.54
+409,Quinu,Sandviken,Gävleborg,30396.05
+410,Bubblebox,Bichena,,38376.98
+411,Mynte,Karanlukh,,25057.77
+412,Oba,Mianay,,43916.22
+413,Divavu,Morelos,Oaxaca,49245.48
+414,Tagpad,Boneng,,11900.24
+415,Jaxspan,Haruman,,48209.9
+416,Fivechat,Munggang,,44657.78
+417,Voomm,Dhahab,,26647.18
+418,Edgeblab,Gīdolē,,14574.73
+419,Ntags,Taihe,,48200.81
+420,Mita,Nyagan,,32621.66
+421,Geba,Yandun,,32776.4
+422,Gabtune,Göteborg,Västra Götaland,32341.21
+423,Devbug,Thị Trấn Triệu Sơn,,14668.46
+424,Minyx,Ágios Vasíleios,,45451.29
+425,Wordware,Taypano,,41270.41
+426,Edgewire,Claremont,,17665.44
+427,Gabtune,Tarnawatka,,28485.87
+428,Edgewire,Siaton,,11654.9
+429,Skinder,Syców,,36802.28
+430,Voonder,Dalakovo,,27043.26
+431,Edgewire,Tagana-an,,19196.08
+432,Wikibox,Changgucheng,,47097.86
+433,Avamba,Beni Khiar,,28359.17
+434,Riffpath,Cácota,,23494.34
+435,Topicshots,Oumé,,26187.46
+436,Tambee,Golopau,,47100.32
+437,Zoovu,Kliteh,,39477.45
+438,Kamba,Baghdad,,41270.25
+439,Pixope,Atalaia,Lisboa,43869.17
+440,Edgeify,Batangtoru,,39197.23
+441,Quatz,Elista,,41533.0
+442,Lajo,Pueblo,Colorado,27540.95
+443,BlogXS,Paghmān,,36302.73
+444,Voolia,Kinloch,Scotland,33723.63
+445,Shufflester,Tamansari,,23438.33
+446,Yambee,Kananga,,24719.16
+447,Dabfeed,Ipoh,Perak,38973.53
+448,Twimbo,Beigong,,33900.08
+449,Minyx,Ranisoba,,18314.42
+450,Youopia,Bai’e,,21634.63
+451,Skinder,Longba,,41773.49
+452,Innojam,Svetlyy,,32768.37
+453,Yakijo,Bajia,,28496.85
+454,Meetz,Roanoke,Virginia,15684.02
+455,Fivespan,Pingshan,,47098.88
+456,Npath,Vol’sk,,20340.04
+457,Rhybox,San Cristóbal,,36368.52
+458,Brainlounge,Cumaná,,16626.88
+459,Latz,Sovetskaya,,39009.57
+460,Linklinks,Romorantin-Lanthenay,Centre,47033.01
+461,Gabtune,Abū Mūsā,,15356.76
+462,Demimbu,Štítina,,21112.26
+463,Skalith,Anguil,,49778.68
+464,Eayo,Ungsang,,33375.75
+465,Eare,Tríkeri,,42253.66
+466,Layo,Sandakan,Sabah,39231.63
+467,Ailane,Ballinteer,,26259.63
+468,Jabberbean,Coronel,,22446.78
+469,InnoZ,Vakhrushi,,31762.83
+470,Aibox,Ramenki,,20039.3
+471,Podcat,Golbey,Lorraine,17059.15
+472,Brightbean,Tayginka,,13577.99
+473,Nlounge,Tundagan,,42995.77
+474,Topicshots,Kalyny,,32906.45
+475,Edgetag,Nürnberg,Bayern,17496.62
+476,Leexo,Lapas,Santarém,44563.31
+477,Bubblebox,Josefina,,27174.46
+478,Trupe,Navotas,,26937.59
+479,Skinix,Keruguya,,12291.93
+480,Tekfly,Gesikan,,10328.04
+481,Zoombeat,Huangdu,,13129.18
+482,Aimbu,Hazlov,,27707.06
+483,Topdrive,Liaoyang,,27763.68
+484,Oyondu,Rybie,,31574.15
+485,Devshare,Villa Dolores,,47972.17
+486,Skibox,Innisfil,Ontario,17920.5
+487,Shufflester,Marte,,38003.85
+488,Skivee,Níkaia,,37116.96
+489,Gabspot,San Miguel,,13443.66
+490,Youspan,Zhapu,,11089.05
+491,Oozz,Kozje,,42588.55
+492,Yotz,Araouane,,28326.42
+493,Youtags,Keleleng,,40401.18
+494,Roodel,Balongmulyo,,33257.98
+495,Ailane,Nato,,16333.94
+496,Geba,Gordeyevka,,38967.67
+497,Yadel,Vanimo,,48041.48
+498,Devify,Bakan,,10188.39
+499,Shuffledrive,Xintian,,37027.67
+500,Gigazoom,Wierzchucino,,32695.89
+501,Yambee,Busungbiu,,35213.71
+502,Kwideo,Xinfang,,12614.7
+503,Meezzy,Jiayi,,27026.44
+504,Topiclounge,Dehang,,18179.28
+505,Blogtag,Avellaneda,,38805.28
+506,Dynazzy,Junliangcheng,,10118.12
+507,Gabvine,Berezne,,44519.18
+508,Dabshots,Ermidas do Sado,Setúbal,15289.95
+509,Janyx,Sangumata,,45483.15
+510,Vitz,Jiangxigou,,43370.28
+511,Twinte,Espera Feliz,,32984.46
+512,Layo,Haparanda,Norrbotten,34296.03
+513,Yabox,Góra Kalwaria,,12747.52
+514,Vitz,Barda,,36683.5
+515,Kazu,Sirre,,13075.83
+516,Zava,Grębków,,48961.48
+517,Skiba,Huangnaihai,,40094.16
+518,Oodoo,Verkhnyaya Tura,,28632.77
+519,Avamba,Yinghua,,23808.05
+520,Topicstorm,Betio Village,,11264.33
+521,Topicstorm,La Cocha,,16363.12
+522,Divanoodle,Grand Forks,North Dakota,47361.56
+523,Browsecat,Drosiá,,21823.83
+524,Abata,Auriflama,,25075.28
+525,Abatz,Kanshi,,36468.29
+526,Thoughtworks,Koran,,29641.2
+527,JumpXS,Ituverava,,19349.08
+528,Pixope,West End,,36672.78
+529,Dynabox,El Mirador,Chiapas,27699.69
+530,Feednation,Duszniki-Zdrój,,18321.56
+531,Blognation,Shah Alam,Selangor,18132.02
+532,Skyndu,Donglu,,44715.5
+533,LiveZ,Rauna,,15387.4
+534,Buzzshare,Tapan,,41396.99
+535,Jaxnation,Xiaoguan,,23703.31
+536,Einti,Jinbo,,22031.21
+537,Babbleset,Qingfa,,35204.3
+538,Kazu,‘Arīqah,,24854.98
+539,Oba,Glamang,,16470.31
+540,Realbridge,Same,,35509.88
+541,Tazz,Końskowola,,22022.89
+542,Zoombox,Luleå,Norrbotten,37203.35
+543,LiveZ,Heilangkou,,21748.11
+544,Eayo,Fangxiang,,38109.57
+545,Zoomlounge,Pliska,,22072.75
+546,Rhynoodle,Alajuela,,26651.57
+547,Omba,Zigong,,11136.61
+548,Lazz,Buhe,,34729.03
+549,Quinu,Santa Barbara,,29950.23
+550,Dablist,Loja,,36654.77
+551,Edgepulse,Łubowo,,20543.35
+552,Jaloo,Bayḩān,,45030.38
+553,Flashspan,Sanpai,,15434.08
+554,Zoomlounge,Buruanga,,27996.57
+555,Kwinu,Gordeyevka,,20180.48
+556,Kwinu,Pā’īn-e Bāzār-e Rūdbār,,28919.26
+557,Kimia,Okanagan,British Columbia,18475.43
+558,Fanoodle,Tomiya,,34308.27
+559,Wordtune,Sorokino,,32827.11
+560,InnoZ,Xinzhou,,37664.2
+561,Realbuzz,Las Garcitas,,49060.71
+562,Kayveo,Catia La Mar,,39082.46
+563,Photobug,Terong,,25059.7
+564,Twitterlist,Lebak,,10146.28
+565,Eayo,Thompson,Manitoba,25249.64
+566,Gigaclub,Langádhia,,43209.09
+567,Jaxspan,Águas Belas,,45899.9
+568,Ozu,Şaḩam,,30788.0
+569,Kamba,Midrand,,21646.58
+570,Avavee,Balitoc,,37764.77
+571,Zooveo,Klayusiwalan,,49555.37
+572,Twitterworks,Normandin,Québec,23486.15
+573,Wikivu,San Isidro,Durango,38560.92
+574,Quire,Karangdalam,,25722.63
+575,Zoonoodle,Lorut,,11718.65
+576,Eare,Caçapava,,23109.84
+577,Twitternation,Cisarap,,49369.93
+578,Meembee,Chandra,,11014.96
+579,Gabtune,Misasi,,17155.64
+580,Babbleblab,Sil-li,,25479.03
+581,Demivee,Nāḩiyat as Sab‘ Biyār,,21960.03
+582,Einti,Jiatou,,26628.91
+583,Tagcat,Huangma,,40664.61
+584,Skidoo,Matangpayang,,39163.33
+585,Livetube,Njurunda,Västernorrland,21811.12
+586,Teklist,Skrunda,,24644.94
+587,Eamia,Krajan,,23684.21
+588,Realbridge,Hasan,,27842.35
+589,Shufflebeat,Mokotów,,20300.55
+590,Yamia,Jeleuk,,33028.25
+591,Skiptube,Zürich,Kanton Zürich,26644.35
+592,Plambee,Perches,,29636.95
+593,Avamba,Río Hondo,,39137.82
+594,Bubblebox,Plottier,,38322.37
+595,Mynte,Yeniköy,Manisa,27217.48
+596,Eabox,Tân Hưng,,26345.93
+597,Browsezoom,Pamotan,,46405.45
+598,Photojam,Ashibetsu,,34756.78
+599,Yamia,Gesik,,16886.4
+600,InnoZ,Katunayaka,,33838.71
+601,Zoozzy,Jayyūs,,11334.07
+602,Skippad,Margate,,23769.34
+603,Roodel,Verkhneye Kazanishche,,47985.74
+604,Eire,Pujocucho,,20505.64
+605,Flashset,Loikaw,,24604.05
+606,Twimm,Nevers,Bourgogne,36562.96
+607,Twitterlist,Orguz,,42583.85
+608,Youopia,Den Chai,,26808.33
+609,Flashspan,Saint Louis,Missouri,26480.41
+610,Buzzdog,Liuyuan,,33578.04
+611,Photobug,Bolong,,36875.56
+612,Einti,Zwolle,Provincie Overijssel,35356.34
+613,Browseblab,Tyukalinsk,,24518.13
+614,Yombu,Akademicheskoe,,32694.47
+615,Mybuzz,Carrefour,,44108.45
+616,Mudo,Tembol,,23037.46
+617,Voomm,Qiaotou,,19974.58
+618,Youbridge,Quva,,38866.42
+619,Oodoo,Luntas,,18991.78
+620,Flipbug,Solntsevo,,47422.26
+621,Thoughtbeat,Sosnovoborsk,,39408.9
+622,Bubblebox,Jarabacoa,,48039.35
+623,Voomm,Umbanyar,,34194.65
+624,Youtags,Taiping,,43202.37
+625,Photobug,Parumaan,,22358.0
+626,Tagtune,El Progreso,,38314.26
+627,Voolith,Damiao,,42535.1
+628,Yakijo,General Galarza,,33408.63
+629,Wordpedia,Duncan,British Columbia,36797.34
+630,Realpoint,Puerto Mayor Otaño,,31808.1
+631,Devbug,Razumnoye,,17903.49
+632,Youfeed,Göteborg,Västra Götaland,22019.62
+633,Yamia,Medellín,,46907.68
+634,Yabox,Uozu,,43537.01
+635,Skajo,Gaojian,,43279.49
+636,Youspan,Krajan Tanjungrejo,,39990.95
+637,Jabbertype,Sukhirin,,10839.17
+638,Jayo,Luoyang,,27549.11
+639,Feedmix,Housuo,,26149.99
+640,Katz,Semamung,,40305.45
+641,Wordware,Chiri-Yurt,,21699.37
+642,Bubblebox,Salt Lake City,Utah,13249.28
+643,Livetube,Engenheiro Beltrão,,47815.89
+644,Dynava,Linëvo,,41215.02
+645,Avamm,Naawan,,31099.54
+646,Brightdog,Osiedle-Nowiny,,25038.35
+647,Devshare,Glushkovo,,32225.57
+648,Fadeo,Ilići,,20253.9
+649,Browsetype,Kontiolahti,,19849.14
+650,Innojam,Campos do Jordão,,23405.93
+651,Quamba,Karangsonojabon,,16406.17
+652,Zoonder,Tammela,,13298.61
+653,Trupe,Xianglan,,40269.15
+654,Cogibox,Rudka,,43991.91
+655,Jetpulse,Taiyangling,,19527.59
+656,Photobug,Malabar,,28367.11
+657,Photospace,Ḩurayḑah,,22439.91
+658,Tagopia,Świętajno,,39384.37
+659,Buzzshare,Lansing,Michigan,10318.95
+660,Edgeify,Zhukovka,,30951.91
+661,Skiba,Kebon,,43440.25
+662,Kwimbee,Farsta,Stockholm,29344.1
+663,Tanoodle,Hikkaduwa,,13182.15
+664,Bubblebox,Kyra,,23386.98
+665,Centimia,Quma,,15283.17
+666,Cogidoo,Dan Khun Thot,,45136.84
+667,Fivechat,Neuilly-sur-Marne,Île-de-France,18900.66
+668,Yadel,Nový Bor,,24029.44
+669,Voolia,Virden,Manitoba,32969.1
+670,Divavu,Saryg-Sep,,25903.03
+671,Brightdog,Brčko,,40484.75
+672,Meemm,Tahilt,,11999.69
+673,Zoovu,Būlaevo,,36823.53
+674,Buzzbean,Ratchaburi,,16842.24
+675,Jayo,Banraeaba Village,,32629.04
+676,Pixope,Anyama,,26996.05
+677,Bubblebox,Pocohuanca,,33554.97
+678,Realcube,Singaraja,,12853.08
+679,Meetz,Tabiauan,,23232.7
+680,Thoughtbeat,Ansongo,,12829.23
+681,Tavu,Colonia Mauricio José Troche,,19767.86
+682,Babbleopia,Saukkola,,17055.45
+683,Kanoodle,Dikou,,39875.59
+684,Mymm,Rohia,,48333.31
+685,Blogtags,Kalidawe,,46541.07
+686,Wordpedia,Ingersoll,Ontario,40520.82
+687,Voonder,Dao’er,,45603.64
+688,Thoughtbridge,Cihaur,,13866.44
+689,Kwideo,Cimanggu,,24613.89
+690,Topiczoom,Tiron,,20338.87
+691,Tazzy,Dhuusamarreeb,,30933.66
+692,Edgetag,Askim,Västra Götaland,44292.75
+693,Rhyloo,Leonárisso,,17999.2
+694,Oyoloo,Krông Kmar,,19758.54
+695,Myworks,Arhust,,15677.46
+696,Innojam,Amparafaravola,,44525.39
+697,Leexo,Loum,,40970.75
+698,Feedspan,Xiaodukou,,27716.87
+699,Brainbox,Potok Złoty,,49562.56
+700,Minyx,Padre Nabeto,Setúbal,21545.21
+701,Katz,Portsmouth,,44570.61
+702,Nlounge,Pandanrejokrajan,,32043.59
+703,Youspan,Amiens,Picardie,23576.5
+704,Voolia,Ciawitali,,17240.35
+705,Voomm,Umuquena,,11566.4
+706,Tagcat,Yujia,,45008.98
+707,Voonyx,Bezenchuk,,44481.21
+708,Avamm,Kašina,,33386.58
+709,Chatterbridge,Yongchang,,42598.51
+710,Oba,Łąka Prudnicka,,24829.12
+711,Flipbug,Jibiya,,22999.06
+712,Photobug,Panguipulli,,20140.83
+713,Browseblab,Ampanihy,,44818.79
+714,Zooxo,Al Jubayhah,,31961.42
+715,Jayo,Baiyangwan,,18292.48
+716,Fiveclub,Zhangbagou,,26892.03
+717,Jayo,Luyang,,35546.49
+718,Wordtune,Palangkaraya,,12318.1
+719,Zoomlounge,Esmeraldas,,37007.64
+720,Voonyx,Lyozna,,30842.45
+721,Topicblab,Kemijärvi,,33062.81
+722,Cogibox,Cerna,,36503.06
+723,Fivespan,Châteauroux,Centre,38906.61
+724,Snaptags,Sakura,,41934.32
+725,Ainyx,Krrabë,,43035.79
+726,Voonix,Aime,Rhône-Alpes,16302.9
+727,Aivee,Ogod,,41579.05
+728,Ntag,Itarana,,22934.64
+729,Blognation,Embalse,,26655.56
+730,Edgeclub,Oripää,,32195.1
+731,Brainverse,Maying,,27326.01
+732,Avaveo,Ljubno ob Savinji,,31340.83
+733,Yodel,Burtunay,,33106.05
+734,Quatz,Quanling,,40690.75
+735,Devpulse,Vacenovice,,29577.1
+736,Bubblebox,Huolongping,,37963.41
+737,Buzzbean,Sajan,,25873.94
+738,Twitternation,Pyzdry,,32941.09
+739,Photojam,Le Lamentin,Martinique,49791.92
+740,Aimbo,Rumilly,Rhône-Alpes,11637.75
+741,Leenti,Liangbing,,26934.98
+742,Podcat,Yablochnyy,,35838.06
+743,Yozio,Nīkshahr,,10666.86
+744,Youfeed,Cedynia,,23139.35
+745,Oyonder,Bal Chirāgh,,49993.93
+746,Centimia,Tinogasta,,48262.58
+747,Blogpad,Zehak,,16598.83
+748,Tagtune,Dom Pedrito,,33242.52
+749,Leenti,Coro,,35116.53
+750,Voomm,Duhu,,11132.49
+751,Centidel,Sâmraông,,32778.34
+752,Edgeblab,Cikarang,,27585.35
+753,Tazzy,Amos,Québec,43773.09
+754,Twimbo,Jinfeng,,36759.47
+755,Jabberstorm,Santo Antônio do Amparo,,11564.26
+756,Gabtype,Shahr-e Qods,,22653.25
+757,Twinte,Quwa,,26956.3
+758,Bubblebox,Leipzig,Sachsen,48555.9
+759,Eayo,Awar-awar,,32253.18
+760,Meejo,Saint-Maurice,Île-de-France,15898.07
+761,Feedspan,Charleroi,Wallonie,26380.4
+762,Tagchat,Svatava,,32192.85
+763,Fadeo,Göteborg,Västra Götaland,34962.66
+764,Eabox,Gangkou,,45048.21
+765,Browseblab,Novaya Derevnya,,32340.16
+766,Blogtags,Ciroyom,,45155.35
+767,Livefish,Radojevo,,42123.69
+768,Twimm,Ängelholm,Skåne,21390.0
+769,Rhynoodle,Limulan,,35422.0
+770,Chatterpoint,Psychikó,,29575.76
+771,Linklinks,Moryń,,28308.01
+772,Livepath,Semenivka,,22762.19
+773,Vitz,Téra,,29049.6
+774,Wordify,Dolores,,39842.33
+775,Kwideo,Rizó,,21366.28
+776,Shuffledrive,Sauce,,26313.87
+777,Buzzshare,Huashixia,,49905.11
+778,Tanoodle,Bollène,Provence-Alpes-Côte d'Azur,23871.29
+779,Trunyx,Kelburn,,44320.21
+780,Eadel,Qaryat ad Da‘īs,,12775.28
+781,Camimbo,Falun,Dalarna,34414.52
+782,Rhybox,Surin,,29726.74
+783,Tavu,Orlová,,33878.19
+784,Realcube,Ust’-Kalmanka,,41138.6
+785,Rooxo,Cornillon,,16645.27
+786,Meemm,Haozhai,,38952.7
+787,Jabbercube,Erétria,,23730.27
+788,Pixoboo,Bromma,Stockholm,34974.19
+789,Ailane,Kasama,,15324.86
+790,Eabox,Yinjiang,,22203.41
+791,Fivebridge,Ryki,,24744.71
+792,Linklinks,Grudë-Fushë,,39565.85
+793,Photobug,Kiboga,,34146.24
+794,Yakidoo,Jagüey Grande,,44294.77
+795,Plajo,Bashan,,39744.6
+796,Roodel,Tierra y Libertad,Coahuila De Zaragoza,35679.38
+797,Flipbug,Paitan Este,,10317.72
+798,Zoozzy,Morales,,31272.12
+799,Twinder,Salcedo,,47187.43
+800,Skilith,Säter,Dalarna,26953.23
+801,InnoZ,Xiaojie,,20073.72
+802,Livefish,Yëlkino,,25897.88
+803,Bluezoom,Ocote Paulino,,38296.83
+804,InnoZ,Cihua,,19859.8
+805,Eamia,Tomilino,,22944.67
+806,Meeveo,Göteborg,Västra Götaland,26858.28
+807,Tazz,Dundee,,21116.3
+808,Edgeblab,Buseresere,,10666.24
+809,Livetube,Mehrān,,47305.98
+810,Edgeify,Nafada,,13143.43
+811,Voomm,Rennes,Bretagne,48028.19
+812,Quimba,Lelydorp,,28597.88
+813,Skyble,Fort Dauphin,,13003.71
+814,Vinte,Paris 02,Île-de-France,17553.21
+815,Pixope,Sungai Nyamuk,,17615.16
+816,Feedspan,Bokor,,29604.87
+817,Tagcat,Merke,,44781.09
+818,Rhycero,Tarauacá,,31817.13
+819,Skibox,Krabi,,18369.42
+820,Wikizz,Borovlyany,,28487.85
+821,Quimm,Marelesu,,13399.46
+822,Yodoo,Nijmegen,Provincie Gelderland,35217.34
+823,Flipbug,Polomolok,,47244.59
+824,Twitterbeat,Nanxindian,,10744.02
+825,Npath,Остров Пасхи,,15717.41
+826,Oyoyo,Glugu,,27066.9
+827,Browsecat,Wola Sernicka,,37978.82
+828,Realblab,Troitskiy,,23852.6
+829,Browsezoom,Pucheng,,29614.75
+830,Tazzy,Atlanta,Georgia,46139.55
+831,Chatterbridge,Zhoukou,,32073.56
+832,Brainverse,Pępowo,,43849.5
+833,Jabbertype,Aksarka,,15008.36
+834,Avamba,Surin,,19503.23
+835,Browseblab,San Salvador de Jujuy,,11069.4
+836,Realbuzz,Cabog,,31732.66
+837,Buzzbean,Kcynia,,41273.13
+838,Brainverse,Nykarleby,,48443.84
+839,Gabcube,Bachuan,,34165.91
+840,Avamba,Yangju,,26360.95
+841,Avaveo,Ibiá,,16670.5
+842,BlogXS,Toyota,,30628.4
+843,Yakijo,Kafr Miṣr,,47937.67
+844,Linktype,Shūsh,,33440.34
+845,Oozz,Looc,,48136.33
+846,Skyvu,Kalynivka,,10614.67
+847,Skyvu,Sidi Lamine,,43762.63
+848,Browsecat,Zagórów,,23951.85
+849,Mydo,Ambalavao,,11053.79
+850,Shuffletag,Carmo do Cajuru,,17995.63
+851,Npath,Buriram,,26455.78
+852,Mita,Fengjiang,,28543.21
+853,Kwilith,Kanigorokrajan,,12603.09
+854,Muxo,Antipolo,,48279.12
+855,Bluejam,Boto,,18443.61
+856,Kwilith,Runting,,47238.41
+857,Kwimbee,Ash Shaddādah,,20804.59
+858,Devify,Panghadangan,,39508.49
+859,Linkbuzz,Zaragoza,,11518.63
+860,Oyoba,Porosozero,,19449.9
+861,Skajo,Itéa,,16426.14
+862,Vidoo,Kailahun,,16793.48
+863,DabZ,Taketoyo,,46493.19
+864,Lazzy,Casal das Figueiras,Coimbra,47755.86
+865,Avaveo,Photharam,,28226.48
+866,Oyope,Dingbu,,39090.52
+867,Skinte,Paris 07,Île-de-France,31189.6
+868,Mudo,Otra Banda,,26618.43
+869,Jaxnation,Hongshi,,19226.89
+870,Brightdog,Dingtao,,21845.18
+871,Babbleblab,Ron Phibun,,19636.31
+872,Zava,Oslo,Oslo,17119.95
+873,Edgeify,Xintang,,11571.19
+874,Vidoo,Blois,Centre,43775.37
+875,Skimia,Nova Era,,28177.8
+876,Rhycero,Muaraenim,,34366.18
+877,Ozu,Solidaridad,Tamaulipas,26952.21
+878,DabZ,Lido,,38921.96
+879,Yodel,Rokitno,,41387.28
+880,Jaxworks,Mīr Bachah Kōṯ,,12111.26
+881,Yodel,Khrenovoye,,42584.5
+882,Wordify,Maceo,,47086.04
+883,Myworks,Stockholm,Stockholm,37039.82
+884,Oloo,Besançon,Franche-Comté,49562.6
+885,Flipopia,Trzcińsko Zdrój,,16004.39
+886,Agimba,Minas,,15028.12
+887,Devify,As Samawah,,40305.77
+888,Chatterbridge,Potrerillos,,44755.85
+889,Shufflester,Beberon,,47963.01
+890,Ooba,pamas,,27965.0
+891,Yata,Tuchoměřice,,14372.05
+892,Jayo,Betim,,35478.3
+893,Topdrive,Limbuhan,,20454.09
+894,Fiveclub,Las Toscas,,14025.51
+895,Meeveo,Nankengzi,,11766.56
+896,Vinte,San Javier,,12907.61
+897,Babblestorm,Malonty,,19639.56
+898,Tagfeed,Valleymount,,42093.37
+899,Gigabox,Kruty,,49333.76
+900,Photospace,Wilmington,Delaware,19559.16
+901,Fanoodle,Oxelösund,Södermanland,22338.54
+902,Thoughtstorm,Poręba Spytkowska,,23436.06
+903,Jatri,Karamat,,18170.13
+904,Zoovu,Paris 18,Île-de-France,25879.11
+905,Edgeclub,Yangqiao,,35427.05
+906,Gevee,Shkurinskaya,,28949.78
+907,Realbuzz,Bang Len,,12650.47
+908,Shufflester,Shihudang,,39741.01
+909,Oyoba,Chironkamba,,43638.2
+910,Meevee,Sepolong Timur,,48795.78
+911,Nlounge,Bailadores,,14572.53
+912,Divanoodle,San Juan,,46791.73
+913,Browsetype,Lérida,,34398.02
+914,Edgeclub,Dongle,,11932.71
+915,Dazzlesphere,Katrineholm,Södermanland,31677.35
+916,Browseblab,Valparaíso,,21342.51
+917,Photofeed,Portão,,26216.01
+918,Zoomlounge,Sinop,,37913.11
+919,Fivebridge,Khombole,,30204.77
+920,Brainbox,Maralal,,10725.84
+921,Twimm,Paltashaco,,10962.2
+922,Ainyx,São Pedro de Muel,Leiria,43225.96
+923,Thoughtstorm,Shiquan,,31827.16
+924,Zoomlounge,Nikkō,,29279.71
+925,Einti,Semirara,,37523.39
+926,Layo,Karanganyar,,30168.5
+927,Chatterpoint,Lingshan,,35957.35
+928,Thoughtbridge,Massy,Île-de-France,26186.47
+929,Skalith,Ventanas,,24865.68
+930,Skinix,Rongdoi,,46693.65
+931,Yabox,Sōka,,43594.39
+932,Shufflebeat,Nokaneng,,29507.78
+933,Vimbo,San Miguel,,13017.78
+934,Zoomdog,Gubukjero Timuk,,13270.29
+935,Jabbersphere,Rato,,35134.27
+936,Skimia,Pak Chong,,47879.37
+937,Dynazzy,Chengzhong,,17274.35
+938,Kaymbo,Jamao al Norte,,16016.39
+939,Skiptube,Yanmen,,16126.98
+940,Agivu,Cawayan,,41046.88
+941,Snaptags,Pahonjean,,10608.07
+942,Yodel,Skórcz,,10635.99
+943,Midel,Sokolovo,,25240.32
+944,Brainbox,Belyayevka,,34732.58
+945,Ntag,Leticia,,14594.32
+946,Mynte,Bukedea,,34114.13
+947,Rhybox,Anniston,Alabama,25651.67
+948,Edgeblab,Viradouro,,29693.88
+949,Aivee,San José,,28428.4
+950,Blogspan,Horodyshche,,34677.02
+951,Gigaclub,Oqtosh,,13722.38
+952,Kwimbee,Tongmuluo,,41186.93
+953,Feedmix,Corroios,Setúbal,14727.29
+954,Centimia,Kongjiafang,,38910.08
+955,Leenti,Chengfeng,,18484.25
+956,Leexo,Tozkhurmato,,31142.88
+957,Divavu,Waru,,41991.97
+958,Oloo,Chuncheng,,49422.57
+959,Linktype,Duluth,Georgia,47819.92
+960,Vinte,Sumbersih,,44815.03
+961,Twiyo,Shepetivka,,22738.3
+962,Zoombeat,Viraco,,47069.16
+963,Camimbo,Bandarbeyla,,14493.19
+964,Photobean,Liancheng,,49613.36
+965,Chatterbridge,Rosa Zarate,,38969.18
+966,Oba,Itatinga,,30624.93
+967,Oyondu,Saint-Bruno-de-Guigues,Québec,30823.17
+968,Devpoint,Marale,,47461.96
+969,Gabspot,Moulay Yacoub,,49422.65
+970,Kare,Mukō,,29933.44
+971,Mydeo,Huifeng,,35089.51
+972,Realbuzz,Novoorsk,,38185.12
+973,Brainbox,Naukot,,29500.59
+974,Voonix,Lacdayan,,44957.0
+975,Wikizz,Madalena,Ilha do Pico,16784.01
+976,Meeveo,Praia,,45007.89
+977,Wordtune,Montfort-sur-Meu,Bretagne,21864.65
+978,Voonyx,Masaran,,30971.27
+979,Zoombeat,New York City,New York,28914.96
+980,Fliptune,Dallas,Texas,45231.55
+981,Dabfeed,Sanxianling,,49006.99
+982,Thoughtbeat,Atlanta,Georgia,42495.57
+983,Edgeclub,Botevgrad,,38716.74
+984,Skipfire,Kilimatinde,,12690.45
+985,Gigabox,Guzhan,,26244.93
+986,Divavu,Patabog,,41830.99
+987,Kanoodle,Mo I Rana,Nordland,48501.3
+988,Bubbletube,Bolobo,,38770.31
+989,Feedbug,Baicaogou,,33690.41
+990,Eimbee,Järna,Stockholm,31898.21
+991,Talane,Vikhorevka,,43360.74
+992,Yodel,Haiyu,,33606.73
+993,Realbuzz,Néa Róda,,43034.13
+994,Lajo,Patenongan,,27086.59
+995,Dabjam,Angao,,38308.73
+996,Kwideo,Tubajon,,21273.05
+997,Riffpath,Tongole,,16665.61
+998,InnoZ,Tangwei,,30059.25
+999,Einti,Benito Juarez,Chihuahua,22834.73
+1000,Dabvine,Pampas,,45756.59
